@@ -1,0 +1,7 @@
+code: test-categories-bundle
+description: test-categories-bundle bundle
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  categories:
+    - categories/categories-descriptor.yaml
